@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0",
+  "updatedAt": "2026-10-06",
+  "categories": [
+    {"id":"sauna-stoves","slug":"pechi-dlya-bani","title":"Печи для бани","navOrder":10,"icon":"flame","showInMainNav":true,"description":"Дровяные и электрические печи для парных разных объёмов."},
+    {"id":"home-stoves-fireplaces","slug":"pechi-dlya-doma","title":"Печи для дома","navOrder":20,"icon":"home","showInMainNav":true,"description":"Отопительные печи и печи-камины."},
+    {"id":"fireplace-inserts","slug":"kaminnye-topki","title":"Каминные топки","navOrder":30,"icon":"fireplace","showInMainNav":true},
+    {"id":"fireplaces","slug":"kaminy","title":"Готовые камины","navOrder":35,"icon":"fireplace","showInMainNav":true},
+    {"id":"boilers","slug":"tverdotoplivnye-kotly","title":"Твердотопливные котлы","navOrder":40,"icon":"boiler","showInMainNav":true},
+    {"id":"electric-boilers","slug":"elektricheskie-kotly","title":"Электрические котлы","navOrder":45,"icon":"bolt","showInMainNav":false},
+    {"id":"electric-sauna-heaters","slug":"elektrokamenki","title":"Электрокаменки","navOrder":15,"icon":"bolt","showInMainNav":false},
+    {"id":"chimneys","slug":"dymohody","title":"Дымоходы","navOrder":50,"icon":"chimney","showInMainNav":true,"synthetic":true,"dataSource":"chimney-systems.json"},
+    {"id":"sauna-doors","slug":"dveri-dlya-bani","title":"Двери для бани","navOrder":60,"icon":"door","showInMainNav":true},
+    {"id":"wood-finishing","slug":"otdelka-bani","title":"Отделка бани","navOrder":70,"icon":"wood","showInMainNav":true},
+    {"id":"sauna-interior","slug":"interer-bani","title":"Мебель и интерьер","navOrder":75,"icon":"bench","showInMainNav":false},
+    {"id":"bath-water-systems","slug":"nagrevanie-vody","title":"Нагрев воды","navOrder":80,"icon":"water","showInMainNav":false},
+    {"id":"installation-solutions","slug":"montazh-i-zashita","title":"Монтаж и защита","navOrder":85,"icon":"tools","showInMainNav":false},
+    {"id":"grill-zone","slug":"mangalnaya-zona","title":"Мангальная зона","navOrder":90,"icon":"grill","showInMainNav":true}
+  ]
+}
